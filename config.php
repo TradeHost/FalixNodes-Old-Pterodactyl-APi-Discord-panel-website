@@ -6,7 +6,7 @@ $dbname = "tradehos_zyrotest";
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 // Site domain
-$site_domain = "limitednodes.host";
+$site_domain = "https://falixnodesv1.herokuapp.com/";
 
 // Pterodactyl API settings
 $ptero_domain = "gp.trade-mc.tk";
